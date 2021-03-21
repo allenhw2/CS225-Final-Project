@@ -1,0 +1,32 @@
+WEEK1 (11/15/20 - 11/22/20):
+This week our group finished the team contract and discussed the logistics for completing the project. Additionally, 
+we looked through the dataset and decided to use a road map dataset for our graph. We discussed and completed the 
+project goals document. Although we have not gotten feedback on the proposal, we began to discuss implementation 
+details and ways that the work could be delegated.
+
+WEEK2 (11/23/20 - 11/29/20):
+This was fall/thanksgiving break so we didn't due that much. We got together on Friday the 27th to plan out who is doing
+what and the order of tasks that need to be done. We also implemented a skeleton of the file structure that was decided 
+during our meeting. We decided to base the graph/edge structure off the CS 225 lab ml and lab flow.
+
+WEEK 3 (11/30/20 - 12/6/20):
+- 12/2/20 Meeting 1: We all gathered for a meeting to go and work on the code together. Bella worked on the traversals while
+    three were trying to fix the kinks in our graph code and the djikstra algorithm. We have established plans to meet later 
+    again in the day to continue our work. 
+- 12/2/20 Meeting 2: We continued to work on djikstra's algorithm and got it working on a smaller dataset. We still are running
+    into issues with the full official dataset, but plan to continue working on it this week. 
+- 12/5/20:
+    A* has been completed, djikstra still needs work. We utilized Python to add random weights to the dataset. We still need to change 
+    the data structure to a priority queue and implement tests. TODO: djikstra, Tests, Edge cases
+
+Our group had our check-in meeting on 12/5/20 and received feedback about implementation and overall progress. We are on track to finish
+the project by the due date and have a clear idea of the things that we need to complete this upcoming week.
+
+WEEK 4 (12/7/20 - 12/11/20):
+- 12/8/20: We met to go and work on our leftover work. We started on the presentation and got a good start on the results 
+    document. Additionally, our group split up working on code documentation/structure and adding tests.
+- 12/9/20: Met up today in the afternoon to go and figure out why our code was printing the last node twice, discovered it was an issue with the iterator.
+  We met up again later in the day to record the final presentation, go over the results document, and ensure that we had
+  everything together.
+- 12/11/20: Our group texted throughout the day to ensure that everything was uploaded and complete. We also fixed a small issue
+with the BFS operator and completed our group evaluations.
